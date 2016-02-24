@@ -18,4 +18,65 @@ Factors
 * Efficiency needed (1M users or less than 1k ?)
 * Type of data to store (blog/log or relations)
 * Known languages
+* Money (server)
+* Fullstack or a whole app
+
+Languages
+-----------
+
+* Javascript
+* NodeJS/IO.js/Chakra.js
+* C
+* C++
+* C#
+* Python
+* Ruby
+* Lisp
+* Java
+* HTML/CSS
+* Go
+* PHP (XHP ?)
+* Perl
+* Scala ?
+* ASP.NET
+
+
+Databases
+----------
+
+* MongoDB
+* SQL Lite
+* MySQL
+* SQL Server
+
+
+Stacks
+----------
+
+* Mean.JS
+* Meteor.JS
+* Symphony.PHP
+
+
+3D models
+---------
+* Catia
+* Solidworks
+* Blender
+* 3ds MAX
+
+3D Tech
+----------
+
+* OpenGL
+* OpenGL ES
+* Vulkan
+* DirectX 9/11
+* DirectX 12
+
+Game Engines
+----------
+* Unity
+* Source 
+* Unreal Engine  4
 
