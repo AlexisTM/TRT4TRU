@@ -11,7 +11,6 @@ This is why this website aims to force you to make the right choices for your ap
 
 Factors 
 ------------
-
 * Company 
 * Level of the dev
 * App or Website or Webservice (API)
@@ -37,9 +36,10 @@ Languages
 * Go
 * PHP (XHP ?)
 * Perl
-* Scala ?
 * ASP.NET
-
+* Excel
+* VBA
+* RUST
 
 Databases
 ----------
@@ -48,6 +48,7 @@ Databases
 * SQL Lite
 * MySQL
 * SQL Server
+* MSAccess
 
 
 Stacks
@@ -67,7 +68,6 @@ Stacks
 
 3D Tech
 ----------
-
 * OpenGL
 * OpenGL ES
 * Vulkan
@@ -80,3 +80,23 @@ Game Engines
 * Source 
 * Unreal Engine  4
 
+Robotics
+--------
+* ROS
+* GoBot
+
+Operating System
+----------
+* Windows
+* Linux
+* Ubuntu
+* Debian
+* Backtrack
+* MacOS
+
+Reports
+----------
+* Word
+* Powerpoint
+* Latex
+* Beamer (Latex)
